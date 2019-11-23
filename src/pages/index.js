@@ -49,7 +49,7 @@ function Home() {
                 "button button--outline button--secondary button--lg",
                 styles.getStarted
               )}
-              to="/blog"
+              to={useBaseUrl("/blog")}
             >
               博客
             </Link>
