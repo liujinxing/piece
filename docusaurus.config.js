@@ -9,7 +9,7 @@ module.exports = {
   title: "零碎",
   tagline: "弱水三千，只取一瓢",
   url: "https://liujinxing.github.io",
-  baseUrl: "/",
+  baseUrl: "/piece/",
   favicon: "img/favicon.ico",
   organizationName: "liujinxing", // Usually your GitHub org/user name.
   projectName: "piece", // Usually your repo name.
