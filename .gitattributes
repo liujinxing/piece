@@ -11,6 +11,7 @@
 .gitattributes text eol=lf
 *.txt text eol=lf
 LICENSE text eol=lf
+yarn.lock text eol=lf
 
 [core]
   autocrlf=input
